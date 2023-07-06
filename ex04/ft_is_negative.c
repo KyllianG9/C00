@@ -6,13 +6,11 @@
 /*   By: kgarcia <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/05 20:17:08 by kgarcia           #+#    #+#             */
-/*   Updated: 2023/07/06 06:55:50 by kgarcia          ###   ########.fr       */
+/*   Updated: 2023/07/06 16:39:07 by kgarcia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-
-void	ft_is_negative(int n);
 
 void	ft_is_negative(int n)
 {	

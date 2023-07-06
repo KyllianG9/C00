@@ -6,13 +6,11 @@
 /*   By: kgarcia <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/06 06:47:42 by kgarcia           #+#    #+#             */
-/*   Updated: 2023/07/06 06:49:43 by kgarcia          ###   ########.fr       */
+/*   Updated: 2023/07/06 16:38:36 by kgarcia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-
-void	ft_print_numbers(void);
 
 void	ft_print_numbers(void)
 {

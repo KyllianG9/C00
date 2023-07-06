@@ -6,13 +6,11 @@
 /*   By: kgarcia <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/05 19:34:55 by kgarcia           #+#    #+#             */
-/*   Updated: 2023/07/06 06:26:37 by kgarcia          ###   ########.fr       */
+/*   Updated: 2023/07/06 16:36:56 by kgarcia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-
-void	ft_putchar(char c);
 
 void	ft_putchar(char c)
 {
